@@ -221,3 +221,24 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Compiled binaries, packages, and raw device images
+*.exe
+*.dll
+*.apk
+*.bin
+*.img
+
+# Secrets, keys, and local environment files
+.env
+.env.*
+*.key
+*.pem
+*secret*
+*token*
+
+# Logs, caches, and temporary artifacts
+*.log
+*.tmp
+__pycache__/
+.DS_Store
+Thumbs.db
