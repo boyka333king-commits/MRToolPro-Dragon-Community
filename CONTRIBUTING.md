@@ -22,3 +22,10 @@ This public repository is strictly dedicated to:
 ## Brand & Intellectual Property
 - Official logos, branding assets, and core proprietary software belong exclusively to **MRToolPro Dragon**.
 - Do not include unauthorized brand assets or imply official endorsement in third-party extensions without prior permission.
+## Phone Vulnerabilities & Device Support Research
+Contributions involving phone vulnerabilities, security weaknesses, or low-level device research are welcome only under strict defensive, diagnostic, and device-support guidelines:
+- **Authorized & Safe Scope:** Focus on vulnerability analysis, diagnostic checks, compatibility profiles, or support logic within **MRToolPro Dragon**—not malicious exploitation or unauthorized access.
+- **Required Technical Details:** Include device brand and model, chipset/platform details, OS or security patch level, safe reproduction steps, and affected components.
+- **No Harmful Binaries or Secrets:** Never submit obfuscated malware, unauthorized exploit payloads, precompiled binaries (`.exe`, `.dll`, `.apk`), private keys, or credentials.
+- **Maintainer Review:** All vulnerability and device-support submissions require manual review and explicit approval before merging into `main`.
+- 
